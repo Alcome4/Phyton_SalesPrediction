@@ -1,7 +1,7 @@
 # Sales_prediction_Phyton
 
 ## BigMart Product Sales Prediction Project
-<img align="center" alt="Coding" width="800" src="https://img.freepik.com/premium-photo/rear-view-young-woman-red-cap-standing-supermarket-reading-book-woman-with-shopping-store-shelf-ai-generated_538213-8058.jpg">
+<img align="center" alt="Coding" width="600" src="https://img.freepik.com/premium-photo/rear-view-young-woman-red-cap-standing-supermarket-reading-book-woman-with-shopping-store-shelf-ai-generated_538213-8058.jpg">
 
 ### Business Understanding
 This project aims to analyze and predict the factors that most significantly influence product sales at BigMart. The dataset provides detailed information on 1,559 products across 10 stores, covering various attributes such as product weight, visibility, and store characteristics.
