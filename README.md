@@ -1,6 +1,4 @@
-# Sales_prediction_Phyton
-
-## BigMart Product Sales Prediction Project
+# BigMart Product Sales Prediction Project
 <img align="center" alt="Coding" width="600" src="https://img.freepik.com/premium-photo/rear-view-young-woman-red-cap-standing-supermarket-reading-book-woman-with-shopping-store-shelf-ai-generated_538213-8058.jpg">
 
 ### Business Understanding
